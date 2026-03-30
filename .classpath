@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/openpdf-1.3.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/xmlgraphics-commons-2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/jasperreports-fonts-6.21.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/castor-xml-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/jasperreports-6.21.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abd3q/Downloads/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/ucanaccess-5.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
